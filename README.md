@@ -1,4 +1,4 @@
-### Hi there, I'M Roshan
+### Hi there, I'm Roshan
 
 ## I'm a Learner
 - 🍒 I'm Currently Learning Everything 🤣
