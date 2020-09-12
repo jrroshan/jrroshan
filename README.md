@@ -20,8 +20,6 @@
 
 </details> -->
 
-<br />
-
 ---
 
 <img align="left" alt="jrroshan's Github Stats" src="https://github-readme-stats-git-master.jrroshan.vercel.app//api?username=jrroshan&show_icons=true&hide_border=true" />
