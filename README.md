@@ -2,7 +2,7 @@
 
 ## I'm a Learner
 - 🍒 I'm Currently Learning Everything 🤣
-- 🥅 2020 Goals: Contribute to Open Source Projects
+- 🥅 2021 Goals: Contribute to Open Source Projects
 - 🎵 Favorite Song: Selena Gomez - The Heart Wants What It Wants
 - ⚡ Fun Fact: I love to make Video/ B-rolls
 
