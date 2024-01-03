@@ -2,7 +2,7 @@
 
 ## I'm a Learner
 - 🍒 I'm Currently Learning Everything 🤣
-- 🥅 2023 Goals: Contribute to Open Source Projects
+- 🥅 2024 Goals: Contribute to Open Source Projects
 - 🎵 Favorite Song: Selena Gomez - The Heart Wants What It Wants
 - ⚡ Fun Fact: I love to make Video/ B-rolls
 
@@ -18,9 +18,23 @@
 
 </details> -->
 
+###
+
+<img src="https://raw.githubusercontent.com/jrroshan/jrroshan/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/jrroshan/count.svg?"  />
+</div>
+
+###
+
 ---
 
 <img align="left" alt="jrroshan's Github Stats" src="https://github-readme-stats-git-master.jrroshan.vercel.app//api?username=jrroshan&show_icons=true&hide_border=true" />
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
 
 [website]: https://roshanlasiwa.com.np
 [linkedin]: https://www.linkedin.com/in/roshan-lasiwa-3384651a2/
