@@ -1,7 +1,7 @@
 ### Hi there, I'm Roshan
 
 ## I'm a Learner
-- 🍒 I'm Currently Learning Everything 🤣
+- 🍒 I'm Currently Learning SvelteKit
 - 🥅 2024 Goals: Contribute to Open Source Projects
 - 🎵 Favorite Song: Selena Gomez - The Heart Wants What It Wants
 - ⚡ Fun Fact: I love to make Video/ B-rolls
@@ -11,12 +11,6 @@
 [<img aligh="left" alt="roshanlasiwa.com.np" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [<img align="left" alt="RoshanLasiwa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<!-- <details>
-  <summary>:zap: Github Stats</summary>
-
-  []
-
-</details> -->
 
 ###
 
