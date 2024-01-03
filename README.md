@@ -34,7 +34,7 @@
 
 <img align="left" alt="jrroshan's Github Stats" src="https://github-readme-stats-git-master.jrroshan.vercel.app//api?username=jrroshan&show_icons=true&hide_border=true" />
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
+![Spotify recently played]([https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1](https://spotify-recently-played-readme.vercel.app/api?user=ofjmj83hb5x7tyxhkz0cqlihn&count={1}))
 
 [website]: https://roshanlasiwa.com.np
 [linkedin]: https://www.linkedin.com/in/roshan-lasiwa-3384651a2/
