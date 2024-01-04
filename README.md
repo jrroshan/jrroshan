@@ -36,4 +36,4 @@
 [website]: https://roshanlasiwa.com.np
 [linkedin]: https://www.linkedin.com/in/roshan-lasiwa-3384651a2/
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
