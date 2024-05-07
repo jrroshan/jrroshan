@@ -1,7 +1,7 @@
 ### Hi there, I'm Roshan
 
 ## I'm a Learner
-- 🍒 I'm Currently Learning SvelteKit
+- 🍒 I'm Currently Learning Devops
 - 🥅 2024 Goals: Contribute to Open Source Projects
 - 🎵 Favorite Song: Selena Gomez - The Heart Wants What It Wants
 - ⚡ Fun Fact: I love to make Video/ B-rolls
