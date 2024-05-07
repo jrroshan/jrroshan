@@ -22,7 +22,7 @@
 
 ---
 
-<img align="left" alt="jrroshan's Github Stats" src="https://github-readme-stats-git-master.jrroshan.vercel.app//api?username=jrroshan&show_icons=true&hide_border=true" />
+<img align="left" alt="jrroshan's Github Stats" src="https://github-readme-stats-qtg8.vercel.app/api?username=jrroshan&show_icons=true&hide_border=true" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jrroshan/jrroshan/output/github-contribution-grid-snake-dark.svg">
